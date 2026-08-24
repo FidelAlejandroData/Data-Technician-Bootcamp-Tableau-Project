@@ -30,11 +30,15 @@ Analysed the **Gapminder Health dataset** to investigate life expectancy, popula
 
 The analysis demonstrated how visualisation can highlight **health inequalities, demographic differences and trends over time**, supporting data-driven decision-making and resource planning.
 
+<img width="1069" height="502" alt="image" src="https://github.com/user-attachments/assets/56fecbe9-b640-4a98-9418-f4590f07e709" />
+
 https://public.tableau.com/views/GlabalHealthDashboard/GlobalHealthDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Spotify Music Analysis
 
 Created a second Tableau dashboard using Spotify data to investigate factors associated with **music genre and track popularity**. The analysis explored relationships between popularity and audio characteristics such as energy, acousticness, speechiness and instrumentalness.
+
+<img width="1095" height="507" alt="image" src="https://github.com/user-attachments/assets/f17d3a3f-53bb-4096-85af-85f57c2426dd" />
 
 ## Data Storytelling
 
