@@ -1,62 +1,180 @@
-# Tableau Data Visualisation Project
+# Tableau Data Visualisation Project – Data Technician Bootcamp
 
-## Overview
+In this repository, I showcase the Tableau workbooks, dashboards and supporting materials I completed during the **Week 2 Tableau module of the Data Technician Bootcamp**.
 
-This project was completed as part of a **Data Technician Bootcamp**, focusing on using **Tableau** to analyse datasets and transform data into clear, interactive visualisations and dashboards. The workbook demonstrates the ability to work with dimensions and measures, apply filters and sorting, create calculated fields, and communicate insights through data storytelling.
+## 📊 Project Overview
 
-## Skills Demonstrated
+During this project, I used **Tableau** to analyse datasets and transform information into clear, interactive visualisations and dashboards.
 
-* 📊 Created **interactive Tableau dashboards** combining multiple worksheets and visualisations.
-* 🔎 Used **filters**, including country, continent, latest-year and Top N filters, to allow users to explore data interactively.
-* 🧮 Created **calculated fields** to generate new metrics and perform custom business calculations and conditional logic.
-* 📈 Built a variety of charts, including:
+I worked with **global health and Spotify music data**, using filters, calculated fields, sorting and different chart types to identify trends, compare categories and investigate relationships.
 
-  * **Bar charts** for comparisons and rankings
-  * **Line charts** for analysing trends over time
-  * **Pie charts** for population distributions
-  * **Map charts** for geographic analysis
-  * **Scatter plots** for exploring relationships between variables
-  * **Treemaps** for comparing categories
-* 🎨 Applied sorting, filtering, colour formatting and data cleaning techniques.
-* 🔗 Worked with data relationships and multiple worksheets.
-* 📖 Applied **data storytelling** to identify trends, comparisons and patterns and communicate findings to a potential organisation.
-* 🌐 Published completed dashboards to **Tableau Public**.
+A major focus of my work was **data storytelling** — using visualisations not simply to display information, but to communicate meaningful findings clearly.
 
-## Projects & Analysis
+## 🔄 My Tableau Workflow
 
-### Global Health Dashboard
+```mermaid
+flowchart LR
+    A[📁 Dataset] --> B[🔗 Connect Data]
+    B --> C[🧹 Prepare Data]
+    C --> D[🧮 Create Calculated Fields]
+    D --> E[📈 Build Worksheets]
+    E --> F[🎛️ Add Filters]
+    F --> G[📊 Build Dashboard]
+    G --> H[📖 Communicate Insights]
+    H --> I[🌐 Publish to Tableau Public]
+```
 
-Analysed the **Gapminder Health dataset** to investigate life expectancy, population, gender, BMI and cancer-related metrics. The dashboard included visualisations such as life expectancy by continent, life expectancy trends for the top five countries, population distribution by gender, and a life expectancy versus BMI scatter plot.
+## 🛠️ Skills I Demonstrated
 
-The analysis demonstrated how visualisation can highlight **health inequalities, demographic differences and trends over time**, supporting data-driven decision-making and resource planning.
+### 📊 Dashboard Development
 
-<img width="1069" height="502" alt="image" src="https://github.com/user-attachments/assets/56fecbe9-b640-4a98-9418-f4590f07e709" />
+I developed practical experience in:
 
-https://public.tableau.com/views/GlabalHealthDashboard/GlobalHealthDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+* Creating **interactive Tableau dashboards**
+* Combining multiple worksheets
+* Designing dashboard layouts
+* Applying interactive filters
+* Creating dashboards that allow users to explore data dynamically
 
-### Spotify Music Analysis
+### 🔎 Data Exploration
 
-Created a second Tableau dashboard using Spotify data to investigate factors associated with **music genre and track popularity**. The analysis explored relationships between popularity and audio characteristics such as energy, acousticness, speechiness and instrumentalness.
+I worked with:
 
-<img width="1095" height="507" alt="image" src="https://github.com/user-attachments/assets/f17d3a3f-53bb-4096-85af-85f57c2426dd" />
+* **Dimensions and Measures**
+* Filters
+* Sorting
+* Top N analysis
+* Latest-year filters
+* Data relationships
+* Null value removal
+* Category and geographic analysis
 
-## Data Storytelling
+### 🧮 Calculated Fields
 
-A key focus of the project was moving beyond simply creating charts to **communicating meaningful insights from data**. Visualisations were selected to make comparisons, trends, distributions and relationships easier to understand, while interactive filters allowed users to investigate specific countries, continents and other categories.
+I created calculated fields to generate:
 
-## Key Learning Outcomes
+* New metrics
+* Custom calculations
+* Business calculations
+* Conditional logic
+* Derived analytical values
+
+### 📈 Data Visualisation
+
+I created a variety of visualisations, including:
+
+* 📊 **Bar charts** – for comparisons and rankings
+* 📈 **Line charts** – for analysing trends over time
+* 🥧 **Pie charts** – for distributions and proportions
+* 🗺️ **Map charts** – for geographic analysis
+* 🔵 **Scatter plots** – for exploring relationships between variables
+* 🧩 **Treemaps** – for comparing categories
+
+## 📈 Key Project Activities
+
+### 🌍 Global Health Dashboard
+
+I analysed the **Gapminder Health dataset** to investigate:
+
+* Life expectancy
+* Population
+* Gender
+* BMI
+* Cancer incidence
+* Geographic differences
+
+I created visualisations showing:
+
+* Life expectancy by continent
+* Life expectancy trends over time
+* Population distribution by gender
+* Life expectancy versus BMI
+* Cancer-related patterns across continents
+
+I also added interactive filters so users could explore individual countries and regions.
+
+### 🎵 Spotify Music Analysis
+
+I created a second Tableau dashboard using Spotify data to investigate factors associated with **genre and track popularity**.
+
+I explored characteristics including:
+
+* Energy
+* Acousticness
+* Speechiness
+* Instrumentalness
+* Genre
+* Popularity
+* Artist performance
+
+I used the dashboard to compare popular and less popular genres and investigate whether particular audio characteristics appeared to be associated with popularity.
+
+## 🧠 My Dashboard Structure
+
+```mermaid
+flowchart TD
+    A[📊 Tableau Projects]
+    A --> B[🌍 Global Health Dashboard]
+    A --> C[🎵 Spotify Analysis]
+
+    B --> D[📊 Comparisons]
+    B --> E[📈 Trends]
+    B --> F[🥧 Distributions]
+    B --> G[🔵 Relationships]
+
+    C --> H[🏆 Genre Rankings]
+    C --> I[🎚️ Audio Features]
+    C --> J[🔵 Popularity Analysis]
+```
+
+## 📖 Data Storytelling
+
+I learned that choosing the correct visualisation depends on the question I want to answer.
+
+| Analytical Question | Visualisation I Used |
+|---|---|
+| Which category performs highest? | 📊 Bar chart |
+| How has a metric changed over time? | 📈 Line chart |
+| What proportion belongs to each category? | 🥧 Pie chart |
+| Where is something located? | 🗺️ Map |
+| Is there a relationship between two variables? | 🔵 Scatter plot |
+
+This helped me transform raw datasets into visual stories that could support organisational decision-making.
+
+## 🎯 Learning Outcomes
 
 By completing this project, I developed practical experience in:
 
 * Tableau dashboard development
-* Data visualisation and storytelling
-* Interactive filtering and exploration
-* Calculated fields
-* Dimensions and measures
+* Dimensions and Measures
+* Calculated Fields
+* Interactive filters
 * Data relationships
-* Chart selection and formatting
-* Identifying trends and patterns
-* Communicating data-driven insights
+* Sorting
+* Top N analysis
+* Bar charts
+* Line charts
+* Pie charts
+* Scatter plots
+* Map charts
+* Treemaps
+* Dashboard design
+* Data storytelling
 * Publishing dashboards to Tableau Public
 
-**Tools:** `Tableau` `Tableau Public` `Data Visualisation` `Data Analysis` `Calculated Fields` `Interactive Dashboards` `Data Storytelling`
+## 💻 Tools I Used
+
+`Tableau` `Tableau Public` `Calculated Fields` `Interactive Dashboards` `Filters` `Data Analysis` `Data Visualisation` `Data Storytelling`
+
+## 📁 Project Contents
+
+```text
+📦 Tableau-Data-Visualisation
+ ┣ 🌍 Global Health Dashboard
+ ┣ 🎵 Spotify Analysis
+ ┣ 📊 Tableau worksheets
+ ┣ 🖼️ Dashboard screenshots
+ ┣ 📁 Supporting datasets
+ ┣ 🌐 Tableau Public links
+ ┗ 📄 README.md
+```
