@@ -181,8 +181,8 @@ By completing this project, I developed practical experience in:
 
 ```text
 📦 Tableau-Data-Visualisation
- ┣ 🌍 Global Health Dashboard
- ┣ 🎵 Spotify Analysis
+ ┣ 🌍 Global Health Analysis Dashboard
+ ┣ 🎵 Spotify Analysis Dashboard
  ┣ 📊 Tableau workbook
  ┣ 🖼️ Dashboard screenshots
  ┣ 📁 Supporting datasets
