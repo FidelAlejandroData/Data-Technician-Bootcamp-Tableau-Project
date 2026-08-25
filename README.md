@@ -120,8 +120,6 @@ I used the dashboard to compare popular and less popular genres and investigate 
 
 🔗 [Explore Music Genre Popularity on Tableau Public](https://public.tableau.com/views/Spotify-Task2/ExploringMusicGenrePopularity?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
-
 ## 🧠 My Dashboard Structure
 
 ```mermaid
