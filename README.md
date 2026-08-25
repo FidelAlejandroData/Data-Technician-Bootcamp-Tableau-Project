@@ -93,9 +93,9 @@ I created visualisations showing:
 
 I also added interactive filters so users could explore individual countries and regions.
 
-<img width="1222" height="583" alt="image" src="https://github.com/user-attachments/assets/318e1dff-5d0d-4bbf-980f-f2858a9e434b" />
-
 This project includes an interactive Tableau dashboard exploring global health indicators.
+
+<img width="1222" height="583" alt="image" src="https://github.com/user-attachments/assets/318e1dff-5d0d-4bbf-980f-f2858a9e434b" />
 
 🔗 [View the Global Health Dashboard on Tableau Public](https://public.tableau.com/views/GlabalHealthDashboard/GlobalHealthDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
