@@ -183,7 +183,7 @@ By completing this project, I developed practical experience in:
 📦 Tableau-Data-Visualisation
  ┣ 🌍 Global Health Dashboard
  ┣ 🎵 Spotify Analysis
- ┣ 📊 Tableau worksheets
+ ┣ 📊 Tableau workbook
  ┣ 🖼️ Dashboard screenshots
  ┣ 📁 Supporting datasets
  ┣ 🌐 Tableau Public links
