@@ -116,6 +116,12 @@ I explored characteristics including:
 
 I used the dashboard to compare popular and less popular genres and investigate whether particular audio characteristics appeared to be associated with popularity.
 
+<img width="1221" height="554" alt="image" src="https://github.com/user-attachments/assets/3058da78-9630-44e4-838d-69027a3a1474" />
+
+🔗 [Explore Music Genre Popularity on Tableau Public](https://public.tableau.com/views/Spotify-Task2/ExploringMusicGenrePopularity?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+
 ## 🧠 My Dashboard Structure
 
 ```mermaid
